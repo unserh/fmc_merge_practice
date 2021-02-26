@@ -1,5 +1,5 @@
-#include <iostram>
+#include <iostream>
 
 void main() {
-    print("hello world")
+    cout << "hello world";
 }
